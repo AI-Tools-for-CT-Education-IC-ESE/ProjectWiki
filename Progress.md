@@ -1,4 +1,4 @@
-##Activities:
+## Activities:
 
 1. Student journey and Imperial existing content mapping
   - Taxonomy for Computational Thinking (Maths + Comp Sci + Coding) - what are the key topics, what builds on what?
